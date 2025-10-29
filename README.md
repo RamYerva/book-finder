@@ -51,3 +51,5 @@ Make sure you have the following installed:
 4. Deployment
 
 The application is live and deployed on Vercel, enabling seamless CI/CD for every new update pushed to the repository.
+
+Live Site: https://my-bookfinder.netlify.app/
